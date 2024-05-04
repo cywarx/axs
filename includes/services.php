@@ -16,15 +16,15 @@
 		alt="Company Logo - Novel therapies through programmable stem-cells">
 
 	<div class="company__item-content">
-     <p>
-        <strong>*Blockchain Solutions:*</strong> 
-        - Digital Product Passport (DPP)
-        - Description: Create a secure digital twin of physical products, recording lifecycle data.
-        - Marketplace for Luxury Goods
-        - Description: Establish a secondary market with blockchain-based authenticity authentication, opening up a new revenue stream for brands, countering plagiarism, and collecting untapped data.
-        - Token Gated Website
-        - Description: Implement a token-gated website, where access is restricted to users who hold specific tokens or have certain membership levels. This enhances community engagement, incentivizes token holders, and fosters a sense of exclusivity and belonging among your audience.
+    <p style="text-align:left;">
+        <strong>Digital Product Passport (DPP):</strong><br>
+        Create a secure digital twin of physical products, recording lifecycle data.
+        <br><strong>Marketplace for Luxury Goods:</strong>
+        Establish a secondary market with blockchain-based authenticity authentication, opening up a new revenue stream for brands, countering plagiarism, and collecting untapped data.
+        <br><strong>Token Gated Website:</strong>
+        Implement a token-gated website, where access is restricted to users who hold specific tokens or have certain membership levels. This enhances community engagement, incentivizes token holders, and fosters a sense of exclusivity and belonging among your audience.
     </p>
+
 	</div>
 
 </button>
@@ -38,14 +38,15 @@
 		alt="Company Logo - Enabling an animal free economy">
 
 	<div class="company__item-content">
-		<p>
-        <strong>*AI Solutions:*</strong>
-        - Custom AI Solutions
-        - Description: Specializing in creating customized AI solutions for process automation, data analytics, predictive analysis, and more, our skilled team of experts delivers high-quality results, quick turnaround times, and comprehensive support. We help you harness the power of AI to streamline processes, gain valuable insights, and drive innovation across your business.
-        - Virtual Assistant AI
-        - Description: Train your Virtual Assistant with information about your products or reality. It allows you to communicate textually, vocally, and through images, helping your customers get to know you better. The VA can also move around inside a totem, becoming a great steward for events and exhibitions.
-        - E-commerce Optimization with AI
-        - Description: Generative AI enhances e-commerce with creative still-life, generates catalog-based content, automates product description generation, and tailors marketing campaigns through customer data analysis and predictive models based on historical data.
+        <p style="text-align:left;">
+            <strong>Custom AI Solutions</strong><br>
+            Specialising in creating customised AI solutions for process automation, data analytics, predictive analysis, and more, our skilled team of experts delivers high-quality results, quick turnaround times, and comprehensive support. We help you harness the power of AI to streamline processes, gain valuable insights, and drive innovation across your business.
+
+            <br><strong>Virtual Assistant AI</strong>
+            Train your Virtual Assistant with information about your products or reality. It allows you to communicate textually, vocally, and through images, helping your customers get to know you better. The VA can also move around inside a totem, becoming a great steward for events and exhibitions.
+
+            <br><strong>E-commerce Optimisation with AI</strong>
+            Generative AI enhances e-commerce with creative still-life, generates catalogue-based content, automates product description generation, and tailors marketing campaigns through customer data analysis and predictive models based on historical data.        
         </p>
 	</div>
 
@@ -60,18 +61,21 @@
 		alt="Company Logo - Re-thinking convenience food for health and sustainability">
 
 	<div class="company__item-content">
-		<p>
-        <strong>*Digital Marketing and Community Management:*</strong>
-        - Community Management
-        - Description: Engage and grow online communities related to your brand or project.
-        - Social Media Management
-        - Description: Strategically manage and optimize social media platforms.
-        - KOL Marketing
-        - Description: Collaborate with Key Opinion Leaders for targeted marketing campaigns.
-        - PR Management
-        - Description: Manage public relations to enhance brand reputation and visibility.
-        - Discord Server Management
-        - Description: Maintain and moderate Discord communities for projects and brands.
+        <p style="text-align:left;">
+            <strong>Community Management</strong><br>
+            Engage and grow online communities related to your brand or project.
+
+            <br><strong>Social Media Management</strong>
+            Strategically manage and optimise social media platforms.
+
+            <br><strong>KOL Marketing</strong>
+            Collaborate with Key Opinion Leaders for targeted marketing campaigns.
+            
+            <br><strong>PR Management</strong>
+            Manage public relations to enhance brand reputation and visibility.
+           
+            <br><strong>Discord Server Management</strong>
+            Maintain and moderate Discord communities for projects and brands.
         </p>
 	</div>
 
@@ -86,14 +90,16 @@
 		alt="Mamady Logo">
 
 	<div class="company__item-content">
-		<p>
-            <strong>*Content Creation:*</strong>
-            - ART Content Creation
-            - Description: Our team specializes in ART content creation, crafting visually stunning and engaging artwork tailored to your brand's identity and vision. From illustrations to digital paintings, our creative artists bring concepts to life, capturing attention and leaving a lasting impression.
-            - Film Making
-            - Description: Leveraging our expertise in film making, we produce captivating videos that tell compelling stories and resonate with your audience. Whether it's promotional videos, documentaries, or short films, our talented filmmakers deliver high-quality content that elevates your brand.
-            - Creative Designer Portfolio
-            - Description: Our creative designers have collaborated with renowned brands such as Nike, SkateX, Azuki, and many more, producing exceptional content that pushes boundaries and sets trends. With a keen eye for detail and a passion for creativity, they create clips and visuals that leave a lasting impact and drive engagement.
+        <p style="text-align:left;">
+            <strong>ART Content Creation</strong><br>
+            Our team specialises in ART content creation, crafting visually stunning and engaging artwork tailored to your brand's identity and vision. From illustrations to digital paintings, our creative artists bring concepts to life, capturing attention and leaving a lasting impression.
+
+            <br><strong>Film Making</strong>
+            Leveraging our expertise in film making, we produce captivating videos that tell compelling stories and resonate with your audience. Whether it's promotional videos, documentaries, or short films, our talented filmmakers deliver high-quality content that elevates your brand.
+
+            <br><strong>Creative Designer Portfolio</strong>
+            Our creative designers have collaborated with renowned brands such as Nike, SkateX, Azuki, and many more, producing exceptional content that pushes boundaries and sets trends. With a keen eye for detail and a passion for creativity, they create clips and visuals that leave a lasting impact and drive engagement.
+            
         </p>
 	</div>
 
@@ -108,18 +114,22 @@
 		alt="Previous Clients">
 
 	<div class="company__item-content">
-        <p>
-            <strong>*Consulting and Support Services:*</strong>
-            - Consulting/Advising
-            - Description: Provide expert guidance and strategic advice for navigating the Web3 and NFT space.
-            - Blockchain-Powered Loyalty Programs
-            - Description: Implement loyalty programs utilizing blockchain technology.
-            - NFT Project Support
-            - Description: Offer comprehensive support from ideation to post-launch for NFT projects.
-            - Server Creation with Security
-            - Description: Setup and secure servers for projects and brands, ensuring data protection and privacy.
-            - Discord Management and Security
-            - Description: Manage and secure Discord communities for projects and brands
+        <p style="text-align:left;">
+            <strong>Consulting/Advising</strong><br>
+            Provide expert guidance and strategic advice for navigating the Web3 and NFT space.
+
+            <br><strong>Blockchain-Powered Loyalty Programs</strong>
+            Implement loyalty programs utilizing blockchain technology.
+
+            <br><strong>NFT Project Support</strong>
+            Offer comprehensive support from ideation to post-launch for NFT projects.
+           
+            <br><strong>Server Creation with Security</strong>
+            Setup and secure servers for projects and brands, ensuring data protection and privacy.
+           
+            <br><strong>Discord Management and Security</strong>
+            Manage and secure Discord communities for projects and brands.
+            
         </p>
 	</div>
 
