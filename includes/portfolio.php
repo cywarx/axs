@@ -8,82 +8,96 @@
 </div>
 
 
+<div class="portfolio">
+
+	
+<button class="company__item hidden-button" data-sector="biology" data-logo="0" data-message="Open Bit bio company info">
+    <!-- <div class="dot" style="--dot: #d072f1;" aria-hidden="true"></div> -->
+    <img src="./ClientsLogo/mohammed.png"
+        alt="Company Logo - Novel therapies through programmable stem-cells">
+    <div class="company__item-content">
+        <img src="./team/mo.png" alt="" style="width:200px; height:auto;">
+        <p>Meet Mo, our seasoned Web3 Consultant. With experience from leading companies like Mercedes and Vodafone, he's the visionary behind our agency, transforming businesses with blockchain integration and strategic insights. Collaborate with us to leverage Mo's expertise and stay ahead in the web3 world.</p>
+    </div>
+</button>
+
 
 <button class="company__item" data-sector="biology" data-logo="0" data-message="Open Bit bio company info">
 
-	<div class="dot" style="--dot: #d072f1;" aria-hidden="true"></div>
+<div class="dot" style="--dot: #d072f1;" aria-hidden="true"></div>
 
-	<img src="./ClientsLogo/mohammed.png"
-		alt="Company Logo - Novel therapies through programmable stem-cells">
+<img src="./ClientsLogo/mohammed.png"
+	alt="Company Logo - Novel therapies through programmable stem-cells">
 
-	<div class="company__item-content">
-	<img src="./team/mo.png" alt="" style="width:200px; height:auto;">
-		<p>Meet Mo, our seasoned Web3 Consultant. With experience from leading companies like Mercedes and Vodafone, he's the visionary behind our agency, transforming businesses with blockchain integration and strategic insights. Collaborate with us to leverage Mo's expertise and stay ahead in the web3 world.</p>
-		
-	</div>
+<div class="company__item-content">
+<img src="./team/mo.png" alt="" style="width:200px; height:auto;">
+	<p>Meet Mo, our seasoned Web3 Consultant. With experience from leading companies like Mercedes and Vodafone, he's the visionary behind our agency, transforming businesses with blockchain integration and strategic insights. Collaborate with us to leverage Mo's expertise and stay ahead in the web3 world.</p>
+	
+</div>
 
 </button>
 
 
+
 <button class="company__item" data-sector="biology" data-logo="1" data-message="Open Meatable company info">
 
-	<div class="dot" style="--dot: #d072f1;" aria-hidden="true"></div>
+<div class="dot" style="--dot: #d072f1;" aria-hidden="true"></div>
 
-	<img src="./ClientsLogo/wilxlee.png"
-		alt="Company Logo - Enabling an animal free economy">
+<img src="./ClientsLogo/wilxlee.png"
+	alt="Company Logo - Enabling an animal free economy">
 
-	<div class="company__item-content">
-		<img src="./team/wil.png" alt="" style="width:200px; height:auto;">
-		<p>With a history of generating over $50 million in revenue, Wilxlee is the powerhouse behind our strategic operations. He’s successfully launched and exited businesses in international locations. His business acumen is a cornerstone in ensuring AXS clients' financial milestones are not just met, but exceeded.</p>
-		
-	</div>
+<div class="company__item-content">
+	<img src="./team/wil.png" alt="" style="width:200px; height:auto;">
+	<p>With a history of generating over $50 million in revenue, Wilxlee is the powerhouse behind our strategic operations. He’s successfully launched and exited businesses in international locations. His business acumen is a cornerstone in ensuring AXS clients' financial milestones are not just met, but exceeded.</p>
+	
+</div>
 
 </button>
 
 
 <button class="company__item" data-sector="biology" data-logo="2" data-message="Open Positive Food Co. company info">
 
-	<div class="dot" style="--dot: #d072f1;" aria-hidden="true"></div>
+<div class="dot" style="--dot: #d072f1;" aria-hidden="true"></div>
 
-	<img src="./ClientsLogo/Luciano.png"
-		alt="Company Logo - Re-thinking convenience food for health and sustainability">
+<img src="./ClientsLogo/Luciano.png"
+	alt="Company Logo - Re-thinking convenience food for health and sustainability">
 
-	<div class="company__item-content">
-		<img src="./team/luciano.png" alt="" style="width:200px; height:auto;">
-		<p>Need to build on blockchain or explore the Metaverse? Luciano is your go-to. Specializing in Web3 development, smart contracts, and integration, he’s the tech wiz that brings your web3 vision to life. As the founder of Inventio Hub, Luciano helps traditional businesses leap into the digital future with blockchain, metaverse assets, and NFTs.</p>
-		
-	</div>
+<div class="company__item-content">
+	<img src="./team/luciano.png" alt="" style="width:200px; height:auto;">
+	<p>Need to build on blockchain or explore the Metaverse? Luciano is your go-to. Specializing in Web3 development, smart contracts, and integration, he’s the tech wiz that brings your web3 vision to life. As the founder of Inventio Hub, Luciano helps traditional businesses leap into the digital future with blockchain, metaverse assets, and NFTs.</p>
+	
+</div>
 
 </button>
 
 
 <button class="company__item" data-sector="biology" data-logo="3" data-message="Open Biofidelity company info">
 
-	<div class="dot" style="--dot: #d072f1;" aria-hidden="true"></div>
+<div class="dot" style="--dot: #d072f1;" aria-hidden="true"></div>
 
-	<img src="./ClientsLogo/Mamady.png"
-		alt="Mamady Logo">
+<img src="./ClientsLogo/Mamady.png"
+	alt="Mamady Logo">
 
-	<div class="company__item-content">
-		<img src="./team/mamady.png" alt="" style="width:200px; height:auto;">
-		<p>Mamady is the creative genius behind your brand's visual identity. With marketing campaigns that have generated over $1 billion in revenue for web3 companies, his expertise is a blend of art and market intelligence. He has also founded the web3 brand 1984Redux, which sold out in just five minutes.</p>
-		
-	</div>
+<div class="company__item-content">
+	<img src="./team/mamady.png" alt="" style="width:200px; height:auto;">
+	<p>Mamady is the creative genius behind your brand's visual identity. With marketing campaigns that have generated over $1 billion in revenue for web3 companies, his expertise is a blend of art and market intelligence. He has also founded the web3 brand 1984Redux, which sold out in just five minutes.</p>
+	
+</div>
 
 </button>
 
 
 <!-- <button class="company__item" data-sector="biology" data-logo="4" data-message="Open Rarebase company info">
 
-	<div class="dot" style="--dot: #d072f1;" aria-hidden="true"></div>
+<div class="dot" style="--dot: #d072f1;" aria-hidden="true"></div>
 
-	<img src="./ClientsLogo/Previous-Clients.png"
-		alt="Previous Clients">
+<img src="./ClientsLogo/Previous-Clients.png"
+	alt="Previous Clients">
 
-	<div class="company__item-content">
-		<p>We take pride in the diversity and quality of our client base, including prestigious brands like Diesel, Maison Margiela, Jil Sander, Nike, and Samsung. Our work speaks for itself, and our clients' success is our best testimonial.</p>
-		
-	</div>
+<div class="company__item-content">
+	<p>We take pride in the diversity and quality of our client base, including prestigious brands like Diesel, Maison Margiela, Jil Sander, Nike, and Samsung. Our work speaks for itself, and our clients' success is our best testimonial.</p>
+	
+</div>
 
 </button> -->
 
@@ -91,72 +105,73 @@
 
 <button class="company__item" data-sector="biology" data-logo="7" data-message="Open Zafrens company info">
 
-	<!-- <div class="dot" style="--dot: #d072f1;" aria-hidden="true"></div> -->
-	<div style="--dot: #d072f1;" aria-hidden="true"></div>
+<!-- <div class="dot" style="--dot: #d072f1;" aria-hidden="true"></div> -->
+<div style="--dot: #d072f1;" aria-hidden="true"></div>
 
-	<img src="#"
-		alt="Company Logo - Manipulating how RNA become proteins">
+<img src="#"
+	alt="Company Logo - Manipulating how RNA become proteins">
 
 </button>
 
 
 <button class="company__item" data-sector="biology" data-logo="8" data-message="Open Momentous company info">
 
-	<div style="--dot: #d072f1;" aria-hidden="true"></div>
+<div style="--dot: #d072f1;" aria-hidden="true"></div>
 
-	<img src="#"
-		alt="Company Logo - Drugging the biochemical center of life">
+<img src="#"
+	alt="Company Logo - Drugging the biochemical center of life">
 
 </button>
 
 
 <button class="company__item" data-sector="biology" data-logo="9" data-message="Open Expression Edits company info">
 
-	<div style="--dot: #d072f1;" aria-hidden="true"></div>
+<div style="--dot: #d072f1;" aria-hidden="true"></div>
 
-	<img src="#"
-		alt="Company Logo - redefining the status quo of protein expression">
+<img src="#"
+	alt="Company Logo - redefining the status quo of protein expression">
 </button>
 
 
 <button class="company__item" data-sector="biology" data-logo="10" data-message="Open Sensible Bio company info">
 
-	<div style="--dot: #d072f1;" aria-hidden="true"></div>
+<div style="--dot: #d072f1;" aria-hidden="true"></div>
 
-	<img src="#"
-		alt="Company Logo - Engineering cells to make better mRNA">
+<img src="#"
+	alt="Company Logo - Engineering cells to make better mRNA">
 
 </button>
 
 
 <button class="company__item" data-sector="biology" data-logo="11" data-message="Open Visolis company info">
 
-	<div style="--dot: #d072f1;" aria-hidden="true"></div>
+<div style="--dot: #d072f1;" aria-hidden="true"></div>
 
-	<img src="#"
-		alt="Company Logo - high-performance carbon-negative materials">
+<img src="#"
+	alt="Company Logo - high-performance carbon-negative materials">
 
 </button>
 
 
 <button class="company__item" data-sector="biology" data-logo="12" data-message="Open Creasallis company info">
 
-	<div style="--dot: #d072f1;" aria-hidden="true"></div>
+<div style="--dot: #d072f1;" aria-hidden="true"></div>
 
-	<img src="#"
-		alt="Company Logo - Novel protein engineering solutions for antibody-based therapeutics">
+<img src="#"
+	alt="Company Logo - Novel protein engineering solutions for antibody-based therapeutics">
 
 </button>
 
 
 <button class="company__item" data-sector="biology" data-logo="13" data-message="Open Cytosolix company info">
 
-	<div style="--dot: #d072f1;" aria-hidden="true"></div>
+<div style="--dot: #d072f1;" aria-hidden="true"></div>
 
-	<img src="#"
-		alt="Company Logo - ">
+<img src="#"
+	alt="Company Logo - ">
 
 </button>
+</div>
 
 
 

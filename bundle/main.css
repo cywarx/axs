@@ -1110,6 +1110,10 @@ body {
     color: #fff
 }
 
+.hidden-button {
+    visibility: hidden;
+}
+
 @media only screen and (max-width:767px) {
     .sector__main-content {
         width: 130%
@@ -2227,7 +2231,8 @@ body {
     cursor: pointer;
     opacity: 0;
     transition: opacity .8s cubic-bezier(.5, 1, .89, 1);
-    padding: 40px 0 80px
+    padding: 5px 0 80px;
+    align-items: center;
 }
 
 .logos-overview-active .company__item {
@@ -2248,7 +2253,7 @@ body {
 .company__item img {
     width: auto;
     height: 70px;
-    pointer-events: none
+    pointer-events: none;
 }
 
 @media only screen and (max-width:400px) {
@@ -2292,6 +2297,7 @@ body {
     opacity: 0;
     visibility: hidden
 }
+
 
 @media only screen and (max-width:400px) {
     .company__item-content {

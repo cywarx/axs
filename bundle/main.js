@@ -41022,7 +41022,7 @@ float snoise(vec3 v)
 					let t = 1;
 					St.to(e.shape.scale,
 					{
-						duration: 2,
+						duration: 1,
 						x: t,
 						y: t,
 						z: t

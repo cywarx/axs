@@ -1,12 +1,12 @@
 <div class="sector__main-content sector__main-content-reference" data-sector="AXS">
 
     <h3>Services</h3>
-    <h2>Transform your business with our NFT expertise. From conceptualization to creation,
-        we deliver tailored NFT solutions, propelling your brand into the future of digital commerce and innovation.</h2>
+    <h2>AXS  provides a holistic range of customised solutions, including blockchain innovations, AI-driven strategies, digital marketing, community management, content creation, and comprehensive consulting, enabling businesses to excel in the dynamic realm of digital commerce and innovation.</h2>
 
     <button class="sector__logos-overview-opener" data-open-logos="AXS">Services</button>
 
 </div>
+
 
 <button class="company__item" data-sector="AXS" data-logo="0" data-message="Open Bit bio company info">
 
@@ -16,7 +16,7 @@
 		alt="Company Logo - Novel therapies through programmable stem-cells">
 
 	<div class="company__item-content">
-    <p style="text-align:left;">
+    <p style="text-align:left; margin-top:-25%;">
         <strong>Digital Product Passport (DPP):</strong><br>
         Create a secure digital twin of physical products, recording lifecycle data.
         <br><strong>Marketplace for Luxury Goods:</strong>
@@ -28,7 +28,6 @@
 	</div>
 
 </button>
-
 
 <button class="company__item" data-sector="AXS" data-logo="1" data-message="Open Meatable company info">
 
@@ -92,7 +91,7 @@
 	<div class="company__item-content">
         <p style="text-align:left;">
             <strong>ART Content Creation</strong><br>
-            Our team specialises in ART content creation, crafting visually stunning and engaging artwork tailored to your brand's identity and vision. From illustrations to digital paintings, our creative artists bring concepts to life, capturing attention and leaving a lasting impression.
+            Our team specialises in content creation, crafting visually stunning and engaging artwork tailored to your brand's identity and vision. From illustrations to digital paintings, our creative artists bring concepts to life, capturing attention and leaving a lasting impression.
 
             <br><strong>Film Making</strong>
             Leveraging our expertise in film making, we produce captivating videos that tell compelling stories and resonate with your audience. Whether it's promotional videos, documentaries, or short films, our talented filmmakers deliver high-quality content that elevates your brand.

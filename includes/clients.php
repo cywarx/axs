@@ -217,6 +217,7 @@
     <div class="company__item-content">
 		<p><a href="https://onlyever.club/">https://onlyever.club/</a></p>
 	</div>
+    
 </button>
 
 <button class="company__item" data-sector="economics" data-logo="25" data-message="Open Tromero company info">
